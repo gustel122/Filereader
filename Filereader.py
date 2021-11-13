@@ -1,6 +1,5 @@
 #-------------------------------------------------------------------#
 # This is a Filereader written in Python 3.10
-# Author: J.Matthias
 # Description:
 # You can write or reading or what appending in a File
 #-------------------------------------------------------------------#
